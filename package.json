@@ -1,0 +1,29 @@
+{
+  "name": "winter-of-code",
+  "version": "1.0.0",
+  "description": "aDApt- Collaborative platform for students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannshrimali2110/WOC7.0-aDApt.git"
+  },
+  "author": "Mann Shrimali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannshrimali2110/WOC7.0-aDApt/issues"
+  },
+  "homepage": "https://github.com/mannshrimali2110/WOC7.0-aDApt#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9"
+  }
+}
