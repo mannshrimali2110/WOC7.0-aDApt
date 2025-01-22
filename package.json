@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mannshrimali2110/WOC7.0-aDApt#readme",
   "dependencies": {
+    "@mui/material": "^6.4.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
@@ -26,6 +27,7 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.3",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
   }
 }
